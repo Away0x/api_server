@@ -1,0 +1,64 @@
+{"level":"INFO","timestamp":"2018-09-23 11:17:08.205","file":"github.com/Away0x/api_server/main.go:61","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-23 11:17:08.207","file":"github.com/Away0x/api_server/main.go:58","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-23 11:17:46.117","file":"github.com/Away0x/api_server/main.go:61","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-23 11:17:46.119","file":"github.com/Away0x/api_server/main.go:75","msg":"Waiting for the router, retry in 1 second."}
+{"level":"INFO","timestamp":"2018-09-23 11:17:47.126","file":"github.com/Away0x/api_server/main.go:58","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-23 11:17:51.151","file":"config/config.go:81","msg":"Config file changed: /Users/wutong/Desktop/workspace/goPlayground/src/github.com/Away0x/api_server/conf/config.yaml"}
+{"level":"INFO","timestamp":"2018-09-23 11:17:56.923","file":"github.com/Away0x/api_server/main.go:61","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-23 11:17:56.925","file":"github.com/Away0x/api_server/main.go:58","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-23 11:18:02.971","file":"middleware/logging.go:91","msg":"14.753ms      | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2018-09-23 11:18:32.390","file":"middleware/logging.go:91","msg":"1.544ms       | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2018-09-23 11:28:34.069","file":"config/config.go:81","msg":"Config file changed: /Users/wutong/Desktop/workspace/goPlayground/src/github.com/Away0x/api_server/conf/config.yaml"}
+{"level":"INFO","timestamp":"2018-09-23 11:28:43.646","file":"config/config.go:81","msg":"Config file changed: /Users/wutong/Desktop/workspace/goPlayground/src/github.com/Away0x/api_server/conf/config.yaml"}
+{"level":"INFO","timestamp":"2018-09-23 11:51:30.166","file":"github.com/Away0x/api_server/main.go:61","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-23 11:51:30.168","file":"github.com/Away0x/api_server/main.go:75","msg":"Waiting for the router, retry in 1 second."}
+{"level":"INFO","timestamp":"2018-09-23 11:51:31.176","file":"github.com/Away0x/api_server/main.go:58","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-23 11:51:46.069","file":"middleware/logging.go:102","msg":"191µs         | 127.0.0.1    | POST /v1/user | {code: 20103, message: The token was invalid.}"}
+{"level":"INFO","timestamp":"2018-09-23 11:51:59.580","file":"middleware/logging.go:102","msg":"111.021ms     | 127.0.0.1    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2018-09-23 11:52:40.764","file":"middleware/logging.go:102","msg":"128µs         | 127.0.0.1    | POST /v1/user | {code: 20103, message: The token was invalid.}"}
+{"level":"INFO","timestamp":"2018-09-23 11:54:36.351","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":"a16b8a92-80d5-49c2-bdd2-28bd420cf1d9"}}
+{"level":"INFO","timestamp":"2018-09-23 11:54:36.435","file":"middleware/logging.go:102","msg":"85.072ms      | 127.0.0.1    | POST /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2018-09-23 13:00:31.884","file":"config/config.go:81","msg":"Config file changed: /Users/wutong/Desktop/workspace/goPlayground/src/github.com/Away0x/api_server/conf/config.yaml"}
+{"level":"INFO","timestamp":"2018-09-23 13:03:24.172","file":"github.com/Away0x/api_server/main.go:67","msg":"Start to listening the incoming requests on https address: :8081"}
+{"level":"INFO","timestamp":"2018-09-23 13:03:24.171","file":"github.com/Away0x/api_server/main.go:73","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-23 13:03:24.172","file":"github.com/Away0x/api_server/main.go:87","msg":"Waiting for the router, retry in 1 second."}
+{"level":"INFO","timestamp":"2018-09-23 13:03:25.175","file":"github.com/Away0x/api_server/main.go:58","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-23 13:03:31.419","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":"ab1ba7e8-e434-4354-84e7-c52853ff18e7"}}
+{"level":"INFO","timestamp":"2018-09-23 13:03:31.504","file":"middleware/logging.go:102","msg":"85.335ms      | 127.0.0.1    | POST /v1/user | {code: 20002, message: Database error.}"}
+{"level":"INFO","timestamp":"2018-09-23 13:05:27.709","file":"middleware/logging.go:102","msg":"1.496ms       | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2018-09-23 13:40:54.499","file":"github.com/Away0x/api_server/main.go:85","msg":"Start to listening the incoming requests on https address: :8081"}
+{"level":"INFO","timestamp":"2018-09-23 13:40:54.499","file":"github.com/Away0x/api_server/main.go:91","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-23 13:40:54.500","file":"github.com/Away0x/api_server/main.go:105","msg":"Waiting for the router, retry in 1 second."}
+{"level":"INFO","timestamp":"2018-09-23 13:40:55.504","file":"github.com/Away0x/api_server/main.go:76","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-23 13:47:56.677","file":"github.com/Away0x/api_server/main.go:85","msg":"Start to listening the incoming requests on https address: :8081"}
+{"level":"INFO","timestamp":"2018-09-23 13:47:56.677","file":"github.com/Away0x/api_server/main.go:91","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-23 13:47:56.679","file":"github.com/Away0x/api_server/main.go:92","msg":"listen tcp :8080: bind: address already in use"}
+{"level":"INFO","timestamp":"2018-09-23 13:48:31.721","file":"github.com/Away0x/api_server/main.go:91","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-23 13:48:31.721","file":"github.com/Away0x/api_server/main.go:85","msg":"Start to listening the incoming requests on https address: :8081"}
+{"level":"INFO","timestamp":"2018-09-23 13:48:31.723","file":"github.com/Away0x/api_server/main.go:76","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-23 13:57:49.227","file":"github.com/Away0x/api_server/main.go:92","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-23 13:57:49.227","file":"github.com/Away0x/api_server/main.go:86","msg":"Start to listening the incoming requests on https address: :8081"}
+{"level":"INFO","timestamp":"2018-09-23 13:57:49.227","file":"github.com/Away0x/api_server/main.go:106","msg":"Waiting for the router, retry in 1 second."}
+{"level":"INFO","timestamp":"2018-09-23 13:57:50.233","file":"github.com/Away0x/api_server/main.go:77","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-23 13:58:51.680","file":"github.com/Away0x/api_server/main.go:93","msg":"accept tcp [::]:8080: use of closed network connection"}
+{"level":"INFO","timestamp":"2018-09-23 13:58:51.680","file":"github.com/Away0x/api_server/main.go:87","msg":"accept tcp [::]:8081: use of closed network connection"}
+{"level":"INFO","timestamp":"2018-09-23 13:58:55.391","file":"github.com/Away0x/api_server/main.go:91","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-23 13:58:55.392","file":"github.com/Away0x/api_server/main.go:105","msg":"Waiting for the router, retry in 1 second."}
+{"level":"INFO","timestamp":"2018-09-23 13:58:55.391","file":"github.com/Away0x/api_server/main.go:85","msg":"Start to listening the incoming requests on https address: :8081"}
+{"level":"INFO","timestamp":"2018-09-23 13:58:56.393","file":"github.com/Away0x/api_server/main.go:76","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-23 15:34:17.435","file":"github.com/Away0x/api_server/main.go:91","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-23 15:34:17.435","file":"github.com/Away0x/api_server/main.go:85","msg":"Start to listening the incoming requests on https address: :8081"}
+{"level":"INFO","timestamp":"2018-09-23 15:34:17.436","file":"github.com/Away0x/api_server/main.go:105","msg":"Waiting for the router, retry in 1 second."}
+{"level":"INFO","timestamp":"2018-09-23 15:34:18.443","file":"github.com/Away0x/api_server/main.go:76","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-23 16:22:02.037","file":"github.com/Away0x/api_server/main.go:91","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-23 16:22:02.037","file":"github.com/Away0x/api_server/main.go:85","msg":"Start to listening the incoming requests on https address: :8081"}
+{"level":"INFO","timestamp":"2018-09-23 16:22:02.038","file":"github.com/Away0x/api_server/main.go:105","msg":"Waiting for the router, retry in 1 second."}
+{"level":"INFO","timestamp":"2018-09-23 16:22:03.039","file":"github.com/Away0x/api_server/main.go:76","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-23 16:33:54.848","file":"github.com/Away0x/api_server/main.go:91","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-23 16:33:54.848","file":"github.com/Away0x/api_server/main.go:85","msg":"Start to listening the incoming requests on https address: :8081"}
+{"level":"INFO","timestamp":"2018-09-23 16:33:54.848","file":"github.com/Away0x/api_server/main.go:105","msg":"Waiting for the router, retry in 1 second."}
+{"level":"INFO","timestamp":"2018-09-23 16:33:55.853","file":"github.com/Away0x/api_server/main.go:76","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-23 16:36:45.047","file":"github.com/Away0x/api_server/main.go:85","msg":"Start to listening the incoming requests on https address: :8081"}
+{"level":"INFO","timestamp":"2018-09-23 16:36:45.047","file":"github.com/Away0x/api_server/main.go:91","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-23 16:36:45.067","file":"github.com/Away0x/api_server/main.go:76","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-23 21:37:54.757","file":"github.com/Away0x/api_server/main.go:92","msg":"accept tcp [::]:8080: accept: too many open files in system"}
