@@ -1,7 +1,7 @@
 package user
 
 import (
-	service "juejin_api_server/service/user"
+	service "github.com/Away0x/api_server/service/user"
 
 	"github.com/Away0x/api_server/handler"
 	"github.com/Away0x/api_server/pkg/errno"
