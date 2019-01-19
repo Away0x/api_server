@@ -3,10 +3,10 @@ package user
 import (
 	"strconv"
 
-	"github.com/Away0x/api_server/handler"
-	"github.com/Away0x/api_server/model"
-	"github.com/Away0x/api_server/pkg/errno"
-	"github.com/Away0x/api_server/utils"
+	"api_server/handler"
+	"api_server/model"
+	"api_server/pkg/errno"
+	"api_server/utils"
 	"github.com/gin-gonic/gin"
 	"github.com/lexkong/log"
 	"github.com/lexkong/log/lager"

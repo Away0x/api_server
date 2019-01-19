@@ -1,11 +1,11 @@
 package user
 
 import (
-	"github.com/Away0x/api_server/handler"
-	"github.com/Away0x/api_server/model"
-	"github.com/Away0x/api_server/pkg/auth"
-	"github.com/Away0x/api_server/pkg/errno"
-	"github.com/Away0x/api_server/pkg/token"
+	"api_server/handler"
+	"api_server/model"
+	"api_server/pkg/auth"
+	"api_server/pkg/errno"
+	"api_server/pkg/token"
 	"github.com/gin-gonic/gin"
 )
 

@@ -1,10 +1,10 @@
 package user
 
 import (
-	service "github.com/Away0x/api_server/service/user"
+	service "api_server/service/user"
 
-	"github.com/Away0x/api_server/handler"
-	"github.com/Away0x/api_server/pkg/errno"
+	"api_server/handler"
+	"api_server/pkg/errno"
 	"github.com/gin-gonic/gin"
 )
 

@@ -3,7 +3,7 @@ package handler
 import (
 	"net/http"
 
-	"github.com/Away0x/api_server/pkg/errno"
+	"api_server/pkg/errno"
 	"github.com/gin-gonic/gin"
 )
 

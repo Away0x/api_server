@@ -1,6 +1,6 @@
 package user
 
-import "github.com/Away0x/api_server/model"
+import "api_server/model"
 
 type CreateRequest struct {
 	Username string `json:"username"`

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/Away0x/api_server/model"
-	"github.com/Away0x/api_server/utils"
+	"api_server/model"
+	"api_server/utils"
 )
 
 func ListUser(username string, offset, limit int) ([]*model.UserInfo, uint64, error) {

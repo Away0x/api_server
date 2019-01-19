@@ -462,9 +462,9 @@ function handleMouseUp(evt) {
 <!-- N26 -->
 <g id="node27" class="node">
 <title>N26</title>
-<g id="a_node27"><a xlink:title="github.com/Away0x/api_server/router/middleware.NoCache /Users/wutong/Desktop/workspace/goPlayground/src/github.com/Away0x/api_server/router/middleware/header.go (10ms)">
+<g id="a_node27"><a xlink:title="api_server/router/middleware.NoCache /Users/wutong/Desktop/workspace/goPlayground/src/api_server/router/middleware/header.go (10ms)">
 <polygon fill="#ede8e4" stroke="#b2926d" points="1095.3438,-1346 962.6562,-1346 962.6562,-1306 1095.3438,-1306 1095.3438,-1346"/>
-<text text-anchor="middle" x="1029" y="-1335.6" font-family="Times,serif" font-size="8.00" fill="#000000">github.com/Away0x/api_server/router/middleware</text>
+<text text-anchor="middle" x="1029" y="-1335.6" font-family="Times,serif" font-size="8.00" fill="#000000">api_server/router/middleware</text>
 <text text-anchor="middle" x="1029" y="-1327.6" font-family="Times,serif" font-size="8.00" fill="#000000">NoCache</text>
 <text text-anchor="middle" x="1029" y="-1319.6" font-family="Times,serif" font-size="8.00" fill="#000000">header.go</text>
 <text text-anchor="middle" x="1029" y="-1311.6" font-family="Times,serif" font-size="8.00" fill="#000000">0 of 10ms (7.69%)</text>
@@ -474,12 +474,12 @@ function handleMouseUp(evt) {
 <!-- N4&#45;&gt;N26 -->
 <g id="edge20" class="edge">
 <title>N4&#45;&gt;N26</title>
-<g id="a_edge20"><a xlink:title="github.com/gin&#45;gonic/gin.(*Context).Next /Users/wutong/Desktop/workspace/goPlayground/src/github.com/gin&#45;gonic/gin/context.go &#45;&gt; github.com/Away0x/api_server/router/middleware.NoCache /Users/wutong/Desktop/workspace/goPlayground/src/github.com/Away0x/api_server/router/middleware/header.go (10ms)">
+<g id="a_edge20"><a xlink:title="github.com/gin&#45;gonic/gin.(*Context).Next /Users/wutong/Desktop/workspace/goPlayground/src/github.com/gin&#45;gonic/gin/context.go &#45;&gt; api_server/router/middleware.NoCache /Users/wutong/Desktop/workspace/goPlayground/src/api_server/router/middleware/header.go (10ms)">
 <path fill="none" stroke="#b2926d" d="M1040.788,-1419.8982C1031.6801,-1410.1979 1022.9907,-1398.5767 1018.1621,-1386 1014.5297,-1376.5388 1015.1302,-1365.7622 1017.3055,-1355.9774"/>
 <polygon fill="#b2926d" stroke="#b2926d" points="1020.707,-1356.8097 1020.031,-1346.2365 1013.9659,-1354.9235 1020.707,-1356.8097"/>
 </a>
 </g>
-<g id="a_edge20&#45;label"><a xlink:title="github.com/gin&#45;gonic/gin.(*Context).Next /Users/wutong/Desktop/workspace/goPlayground/src/github.com/gin&#45;gonic/gin/context.go &#45;&gt; github.com/Away0x/api_server/router/middleware.NoCache /Users/wutong/Desktop/workspace/goPlayground/src/github.com/Away0x/api_server/router/middleware/header.go (10ms)">
+<g id="a_edge20&#45;label"><a xlink:title="github.com/gin&#45;gonic/gin.(*Context).Next /Users/wutong/Desktop/workspace/goPlayground/src/github.com/gin&#45;gonic/gin/context.go &#45;&gt; api_server/router/middleware.NoCache /Users/wutong/Desktop/workspace/goPlayground/src/api_server/router/middleware/header.go (10ms)">
 <text text-anchor="middle" x="1034.9189" y="-1374.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 10ms</text>
 </a>
 </g>
@@ -487,9 +487,9 @@ function handleMouseUp(evt) {
 <!-- N27 -->
 <g id="node28" class="node">
 <title>N27</title>
-<g id="a_node28"><a xlink:title="github.com/Away0x/api_server/router/middleware.Options /Users/wutong/Desktop/workspace/goPlayground/src/github.com/Away0x/api_server/router/middleware/header.go (10ms)">
+<g id="a_node28"><a xlink:title="api_server/router/middleware.Options /Users/wutong/Desktop/workspace/goPlayground/src/api_server/router/middleware/header.go (10ms)">
 <polygon fill="#ede8e4" stroke="#b2926d" points="1246.3438,-1346 1113.6562,-1346 1113.6562,-1306 1246.3438,-1306 1246.3438,-1346"/>
-<text text-anchor="middle" x="1180" y="-1335.6" font-family="Times,serif" font-size="8.00" fill="#000000">github.com/Away0x/api_server/router/middleware</text>
+<text text-anchor="middle" x="1180" y="-1335.6" font-family="Times,serif" font-size="8.00" fill="#000000">api_server/router/middleware</text>
 <text text-anchor="middle" x="1180" y="-1327.6" font-family="Times,serif" font-size="8.00" fill="#000000">Options</text>
 <text text-anchor="middle" x="1180" y="-1319.6" font-family="Times,serif" font-size="8.00" fill="#000000">header.go</text>
 <text text-anchor="middle" x="1180" y="-1311.6" font-family="Times,serif" font-size="8.00" fill="#000000">0 of 10ms (7.69%)</text>
@@ -499,12 +499,12 @@ function handleMouseUp(evt) {
 <!-- N4&#45;&gt;N27 -->
 <g id="edge21" class="edge">
 <title>N4&#45;&gt;N27</title>
-<g id="a_edge21"><a xlink:title="github.com/gin&#45;gonic/gin.(*Context).Next /Users/wutong/Desktop/workspace/goPlayground/src/github.com/gin&#45;gonic/gin/context.go &#45;&gt; github.com/Away0x/api_server/router/middleware.Options /Users/wutong/Desktop/workspace/goPlayground/src/github.com/Away0x/api_server/router/middleware/header.go (10ms)">
+<g id="a_edge21"><a xlink:title="github.com/gin&#45;gonic/gin.(*Context).Next /Users/wutong/Desktop/workspace/goPlayground/src/github.com/gin&#45;gonic/gin/context.go &#45;&gt; api_server/router/middleware.Options /Users/wutong/Desktop/workspace/goPlayground/src/api_server/router/middleware/header.go (10ms)">
 <path fill="none" stroke="#b2926d" d="M1094.0246,-1419.7556C1104.8159,-1405.0861 1118.6582,-1387.117 1132.1621,-1372 1137.6671,-1365.8374 1143.8422,-1359.5174 1149.8799,-1353.6119"/>
 <polygon fill="#b2926d" stroke="#b2926d" points="1152.6051,-1355.8474 1157.3933,-1346.3963 1147.7564,-1350.7986 1152.6051,-1355.8474"/>
 </a>
 </g>
-<g id="a_edge21&#45;label"><a xlink:title="github.com/gin&#45;gonic/gin.(*Context).Next /Users/wutong/Desktop/workspace/goPlayground/src/github.com/gin&#45;gonic/gin/context.go &#45;&gt; github.com/Away0x/api_server/router/middleware.Options /Users/wutong/Desktop/workspace/goPlayground/src/github.com/Away0x/api_server/router/middleware/header.go (10ms)">
+<g id="a_edge21&#45;label"><a xlink:title="github.com/gin&#45;gonic/gin.(*Context).Next /Users/wutong/Desktop/workspace/goPlayground/src/github.com/gin&#45;gonic/gin/context.go &#45;&gt; api_server/router/middleware.Options /Users/wutong/Desktop/workspace/goPlayground/src/api_server/router/middleware/header.go (10ms)">
 <text text-anchor="middle" x="1148.9189" y="-1374.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 10ms</text>
 </a>
 </g>
@@ -512,9 +512,9 @@ function handleMouseUp(evt) {
 <!-- N28 -->
 <g id="node29" class="node">
 <title>N28</title>
-<g id="a_node29"><a xlink:title="github.com/Away0x/api_server/router/middleware.RequestId.func1 /Users/wutong/Desktop/workspace/goPlayground/src/github.com/Away0x/api_server/router/middleware/requestid.go (10ms)">
+<g id="a_node29"><a xlink:title="api_server/router/middleware.RequestId.func1 /Users/wutong/Desktop/workspace/goPlayground/src/api_server/router/middleware/requestid.go (10ms)">
 <polygon fill="#ede8e4" stroke="#b2926d" points="1397.3438,-1350 1264.6562,-1350 1264.6562,-1302 1397.3438,-1302 1397.3438,-1350"/>
-<text text-anchor="middle" x="1331" y="-1339.6" font-family="Times,serif" font-size="8.00" fill="#000000">github.com/Away0x/api_server/router/middleware</text>
+<text text-anchor="middle" x="1331" y="-1339.6" font-family="Times,serif" font-size="8.00" fill="#000000">api_server/router/middleware</text>
 <text text-anchor="middle" x="1331" y="-1331.6" font-family="Times,serif" font-size="8.00" fill="#000000">RequestId</text>
 <text text-anchor="middle" x="1331" y="-1323.6" font-family="Times,serif" font-size="8.00" fill="#000000">func1</text>
 <text text-anchor="middle" x="1331" y="-1315.6" font-family="Times,serif" font-size="8.00" fill="#000000">requestid.go</text>
@@ -525,12 +525,12 @@ function handleMouseUp(evt) {
 <!-- N4&#45;&gt;N28 -->
 <g id="edge22" class="edge">
 <title>N4&#45;&gt;N28</title>
-<g id="a_edge22"><a xlink:title="github.com/gin&#45;gonic/gin.(*Context).Next /Users/wutong/Desktop/workspace/goPlayground/src/github.com/gin&#45;gonic/gin/context.go &#45;&gt; github.com/Away0x/api_server/router/middleware.RequestId.func1 /Users/wutong/Desktop/workspace/goPlayground/src/github.com/Away0x/api_server/router/middleware/requestid.go (10ms)">
+<g id="a_edge22"><a xlink:title="github.com/gin&#45;gonic/gin.(*Context).Next /Users/wutong/Desktop/workspace/goPlayground/src/github.com/gin&#45;gonic/gin/context.go &#45;&gt; api_server/router/middleware.RequestId.func1 /Users/wutong/Desktop/workspace/goPlayground/src/api_server/router/middleware/requestid.go (10ms)">
 <path fill="none" stroke="#b2926d" d="M1112.2584,-1430.9595C1139.5962,-1418.6856 1177.1945,-1401.6062 1210,-1386 1231.116,-1375.9547 1254.1426,-1364.6305 1274.3867,-1354.5483"/>
 <polygon fill="#b2926d" stroke="#b2926d" points="1276.0907,-1357.6096 1283.4754,-1350.0124 1272.9648,-1351.3463 1276.0907,-1357.6096"/>
 </a>
 </g>
-<g id="a_edge22&#45;label"><a xlink:title="github.com/gin&#45;gonic/gin.(*Context).Next /Users/wutong/Desktop/workspace/goPlayground/src/github.com/gin&#45;gonic/gin/context.go &#45;&gt; github.com/Away0x/api_server/router/middleware.RequestId.func1 /Users/wutong/Desktop/workspace/goPlayground/src/github.com/Away0x/api_server/router/middleware/requestid.go (10ms)">
+<g id="a_edge22&#45;label"><a xlink:title="github.com/gin&#45;gonic/gin.(*Context).Next /Users/wutong/Desktop/workspace/goPlayground/src/github.com/gin&#45;gonic/gin/context.go &#45;&gt; api_server/router/middleware.RequestId.func1 /Users/wutong/Desktop/workspace/goPlayground/src/api_server/router/middleware/requestid.go (10ms)">
 <text text-anchor="middle" x="1252.9189" y="-1374.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 10ms</text>
 </a>
 </g>
@@ -1058,12 +1058,12 @@ function handleMouseUp(evt) {
 <!-- N26&#45;&gt;N4 -->
 <g id="edge36" class="edge">
 <title>N26&#45;&gt;N4</title>
-<g id="a_edge36"><a xlink:title="github.com/Away0x/api_server/router/middleware.NoCache /Users/wutong/Desktop/workspace/goPlayground/src/github.com/Away0x/api_server/router/middleware/header.go &#45;&gt; github.com/gin&#45;gonic/gin.(*Context).Next /Users/wutong/Desktop/workspace/goPlayground/src/github.com/gin&#45;gonic/gin/context.go (10ms)">
+<g id="a_edge36"><a xlink:title="api_server/router/middleware.NoCache /Users/wutong/Desktop/workspace/goPlayground/src/api_server/router/middleware/header.go &#45;&gt; github.com/gin&#45;gonic/gin.(*Context).Next /Users/wutong/Desktop/workspace/goPlayground/src/github.com/gin&#45;gonic/gin/context.go (10ms)">
 <path fill="none" stroke="#b2926d" d="M1040.1203,-1346.2463C1044.1887,-1354.1383 1048.6186,-1363.3516 1052,-1372 1056.7283,-1384.0935 1060.9645,-1397.6186 1064.4272,-1409.869"/>
 <polygon fill="#b2926d" stroke="#b2926d" points="1061.13,-1411.0803 1067.1478,-1419.8002 1067.8813,-1409.2307 1061.13,-1411.0803"/>
 </a>
 </g>
-<g id="a_edge36&#45;label"><a xlink:title="github.com/Away0x/api_server/router/middleware.NoCache /Users/wutong/Desktop/workspace/goPlayground/src/github.com/Away0x/api_server/router/middleware/header.go &#45;&gt; github.com/gin&#45;gonic/gin.(*Context).Next /Users/wutong/Desktop/workspace/goPlayground/src/github.com/gin&#45;gonic/gin/context.go (10ms)">
+<g id="a_edge36&#45;label"><a xlink:title="api_server/router/middleware.NoCache /Users/wutong/Desktop/workspace/goPlayground/src/api_server/router/middleware/header.go &#45;&gt; github.com/gin&#45;gonic/gin.(*Context).Next /Users/wutong/Desktop/workspace/goPlayground/src/github.com/gin&#45;gonic/gin/context.go (10ms)">
 <text text-anchor="middle" x="1072.9189" y="-1374.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 10ms</text>
 </a>
 </g>
@@ -1071,12 +1071,12 @@ function handleMouseUp(evt) {
 <!-- N27&#45;&gt;N4 -->
 <g id="edge37" class="edge">
 <title>N27&#45;&gt;N4</title>
-<g id="a_edge37"><a xlink:title="github.com/Away0x/api_server/router/middleware.Options /Users/wutong/Desktop/workspace/goPlayground/src/github.com/Away0x/api_server/router/middleware/header.go &#45;&gt; github.com/gin&#45;gonic/gin.(*Context).Next /Users/wutong/Desktop/workspace/goPlayground/src/github.com/gin&#45;gonic/gin/context.go (10ms)">
+<g id="a_edge37"><a xlink:title="api_server/router/middleware.Options /Users/wutong/Desktop/workspace/goPlayground/src/api_server/router/middleware/header.go &#45;&gt; github.com/gin&#45;gonic/gin.(*Context).Next /Users/wutong/Desktop/workspace/goPlayground/src/github.com/gin&#45;gonic/gin/context.go (10ms)">
 <path fill="none" stroke="#b2926d" d="M1179.0016,-1346.1311C1177.5374,-1358.5496 1174.074,-1374.2868 1166,-1386 1154.7477,-1402.324 1137.6696,-1415.5447 1121.2701,-1425.5184"/>
 <polygon fill="#b2926d" stroke="#b2926d" points="1119.1739,-1422.6875 1112.2703,-1430.7244 1122.679,-1428.7468 1119.1739,-1422.6875"/>
 </a>
 </g>
-<g id="a_edge37&#45;label"><a xlink:title="github.com/Away0x/api_server/router/middleware.Options /Users/wutong/Desktop/workspace/goPlayground/src/github.com/Away0x/api_server/router/middleware/header.go &#45;&gt; github.com/gin&#45;gonic/gin.(*Context).Next /Users/wutong/Desktop/workspace/goPlayground/src/github.com/gin&#45;gonic/gin/context.go (10ms)">
+<g id="a_edge37&#45;label"><a xlink:title="api_server/router/middleware.Options /Users/wutong/Desktop/workspace/goPlayground/src/api_server/router/middleware/header.go &#45;&gt; github.com/gin&#45;gonic/gin.(*Context).Next /Users/wutong/Desktop/workspace/goPlayground/src/github.com/gin&#45;gonic/gin/context.go (10ms)">
 <text text-anchor="middle" x="1188.9189" y="-1374.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 10ms</text>
 </a>
 </g>
@@ -1084,12 +1084,12 @@ function handleMouseUp(evt) {
 <!-- N28&#45;&gt;N4 -->
 <g id="edge38" class="edge">
 <title>N28&#45;&gt;N4</title>
-<g id="a_edge38"><a xlink:title="github.com/Away0x/api_server/router/middleware.RequestId.func1 /Users/wutong/Desktop/workspace/goPlayground/src/github.com/Away0x/api_server/router/middleware/requestid.go &#45;&gt; github.com/gin&#45;gonic/gin.(*Context).Next /Users/wutong/Desktop/workspace/goPlayground/src/github.com/gin&#45;gonic/gin/context.go (10ms)">
+<g id="a_edge38"><a xlink:title="api_server/router/middleware.RequestId.func1 /Users/wutong/Desktop/workspace/goPlayground/src/api_server/router/middleware/requestid.go &#45;&gt; github.com/gin&#45;gonic/gin.(*Context).Next /Users/wutong/Desktop/workspace/goPlayground/src/github.com/gin&#45;gonic/gin/context.go (10ms)">
 <path fill="none" stroke="#b2926d" d="M1312.9869,-1350.2064C1302.757,-1362.4601 1289.0122,-1376.6753 1274,-1386 1226.7862,-1415.3264 1164.6292,-1431.7382 1122.2193,-1440.2009"/>
 <polygon fill="#b2926d" stroke="#b2926d" points="1121.3113,-1436.8113 1112.1511,-1442.1349 1122.6318,-1443.6856 1121.3113,-1436.8113"/>
 </a>
 </g>
-<g id="a_edge38&#45;label"><a xlink:title="github.com/Away0x/api_server/router/middleware.RequestId.func1 /Users/wutong/Desktop/workspace/goPlayground/src/github.com/Away0x/api_server/router/middleware/requestid.go &#45;&gt; github.com/gin&#45;gonic/gin.(*Context).Next /Users/wutong/Desktop/workspace/goPlayground/src/github.com/gin&#45;gonic/gin/context.go (10ms)">
+<g id="a_edge38&#45;label"><a xlink:title="api_server/router/middleware.RequestId.func1 /Users/wutong/Desktop/workspace/goPlayground/src/api_server/router/middleware/requestid.go &#45;&gt; github.com/gin&#45;gonic/gin.(*Context).Next /Users/wutong/Desktop/workspace/goPlayground/src/github.com/gin&#45;gonic/gin/context.go (10ms)">
 <text text-anchor="middle" x="1307.9189" y="-1374.8" font-family="Times,serif" font-size="14.00" fill="#000000"> 10ms</text>
 </a>
 </g>

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SERVER="github.com/Away0x/api_server"
+SERVER="api_server"
 BASE_DIR=$PWD
 INTERVAL=2
 

@@ -3,8 +3,8 @@ package model
 import (
 	"fmt"
 
-	"github.com/Away0x/api_server/pkg/auth"
-	"github.com/Away0x/api_server/pkg/constants"
+	"api_server/pkg/auth"
+	"api_server/pkg/constants"
 	validator "gopkg.in/go-playground/validator.v9"
 )
 

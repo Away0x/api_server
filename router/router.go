@@ -3,10 +3,10 @@ package router
 import (
 	"net/http"
 
-	_ "github.com/Away0x/api_server/docs"
-	"github.com/Away0x/api_server/handler/sd"
-	"github.com/Away0x/api_server/handler/user"
-	"github.com/Away0x/api_server/router/middleware"
+	_ "api_server/docs"
+	"api_server/handler/sd"
+	"api_server/handler/user"
+	"api_server/router/middleware"
 	"github.com/gin-contrib/pprof"
 	"github.com/gin-gonic/gin"
 	"github.com/swaggo/gin-swagger"
